@@ -2,432 +2,2496 @@
   "survey_title": "Survey on the Data Analysis on Factors That Affect Student Stress Levels Among 3rd- and 4th-Year BSCS Students",
   "institution": "Mabini College, Daet, Camarines Norte",
   "academic_year": "2024-2025",
-  "total_respondents": 25,
+  "total_respondents": 104,
   "responses": [
     {
       "respondent_id": "211001",
-      "name": "Alyssa Ramos",
-      "email": "alyssa.ramos@mabinicolleges.edu.ph",
+      "name": "Student 1",
+      "email": "student1@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise",
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211002",
+      "name": "Student 2",
+      "email": "student2@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211003",
+      "name": "Student 3",
+      "email": "student3@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211004",
+      "name": "Student 4",
+      "email": "student4@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Lack of budget"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211005",
+      "name": "Student 5",
+      "email": "student5@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211006",
+      "name": "Student 6",
+      "email": "student6@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211007",
+      "name": "Student 7",
+      "email": "student7@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211008",
+      "name": "Student 8",
+      "email": "student8@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Deadlines",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211009",
+      "name": "Student 9",
+      "email": "student9@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Lack of budget"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Working out",
+        "Talking to friends"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211010",
+      "name": "Student 10",
+      "email": "student10@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211011",
+      "name": "Student 11",
+      "email": "student11@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Lack of budget"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211012",
+      "name": "Student 12",
+      "email": "student12@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Lack of budget"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211013",
+      "name": "Student 13",
+      "email": "student13@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "More than 8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211014",
+      "name": "Student 14",
+      "email": "student14@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Eating"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211015",
+      "name": "Student 15",
+      "email": "student15@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211016",
+      "name": "Student 16",
+      "email": "student16@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Lack of budget"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211017",
+      "name": "Student 17",
+      "email": "student17@mabinicolleges.edu.ph",
       "age": 20,
       "gender": "Female",
       "year_level": "3rd year",
       "academic_stress_frequency": "Never",
-      "exam_stress_level": 1,
-      "academic_stressors": ["Quizzes"],
-      "sleep_hours": "7-8 hours",
-      "personal_issues_affect_performance": "No",
-      "school_environment_affects_stress": "No",
-      "environmental_stressors": ["Class schedule"],
-      "coping_mechanisms": ["Exercise", "Sleeping"],
-      "suggestions": "Peer study sessions would help reinforce lessons"
-    },
-    {
-      "respondent_id": "211002",
-      "name": "Bryan Castillo",
-      "email": "bryan.castillo@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Rarely",
-      "exam_stress_level": 2,
-      "academic_stressors": ["Projects", "Exams"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Peer interaction", "Noise"],
-      "coping_mechanisms": ["Gaming", "Sleeping"],
-      "suggestions": "Clearer rubrics for project grading"
-    },
-    {
-      "respondent_id": "211003",
-      "name": "Carla Domingo",
-      "email": "carla.domingo@mabinicolleges.edu.ph",
-      "age": 20,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Rarely",
-      "exam_stress_level": 2,
-      "academic_stressors": ["Quizzes", "Exams"],
-      "sleep_hours": "7-8 hours",
-      "personal_issues_affect_performance": "No",
-      "school_environment_affects_stress": "Sometimes",
-      "environmental_stressors": ["Class schedule"],
-      "coping_mechanisms": ["Eating", "Sleeping"],
-      "suggestions": "Spread quizzes instead of bunching them in one week"
-    },
-    {
-      "respondent_id": "211004",
-      "name": "Dale Enriquez",
-      "email": "dale.enriquez@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
       "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Exams"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability"],
-      "coping_mechanisms": ["Gaming", "Eating"],
-      "suggestions": "Earlier release of project requirements"
-    },
-    {
-      "respondent_id": "211005",
-      "name": "Elaine Flores",
-      "email": "elaine.flores@mabinicolleges.edu.ph",
-      "age": 20,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Lack of budget"],
-      "sleep_hours": "3-4 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Peer interaction"],
-      "coping_mechanisms": ["Sleeping", "Eating"],
-      "suggestions": "More affordable printing options inside campus"
-    },
-    {
-      "respondent_id": "211006",
-      "name": "Francis Gomez",
-      "email": "francis.gomez@mabinicolleges.edu.ph",
-      "age": 22,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Exams", "Quizzes"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Class schedule", "Noise"],
-      "coping_mechanisms": ["Gaming"],
-      "suggestions": "Allocate silent study rooms before exams"
-    },
-    {
-      "respondent_id": "211007",
-      "name": "Gina Hernandez",
-      "email": "gina.hernandez@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Exams", "Lack of budget"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability", "Class schedule"],
-      "coping_mechanisms": ["Sleeping", "Exercise"],
-      "suggestions": "Stagger deadlines for major subjects"
-    },
-    {
-      "respondent_id": "211008",
-      "name": "Hans Ignacio",
-      "email": "hans.ignacio@mabinicolleges.edu.ph",
-      "age": 20,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Quizzes"],
-      "sleep_hours": "7-8 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "No",
-      "environmental_stressors": ["Peer interaction"],
-      "coping_mechanisms": ["Exercise", "Gaming"],
-      "suggestions": "Offer optional code review sessions"
-    },
-    {
-      "respondent_id": "211009",
-      "name": "Irene Javier",
-      "email": "irene.javier@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Exams", "Lack of budget"],
-      "sleep_hours": "3-4 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Noise"],
-      "coping_mechanisms": ["Sleeping", "Eating"],
-      "suggestions": "More access to online resources without paid subscriptions"
-    },
-    {
-      "respondent_id": "211010",
-      "name": "Jomar Kasilag",
-      "email": "jomar.kasilag@mabinicolleges.edu.ph",
-      "age": 22,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Exams"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Sometimes",
-      "environmental_stressors": ["Class schedule"],
-      "coping_mechanisms": ["Gaming", "Eating"],
-      "suggestions": "Allow project checkpoints for feedback"
-    },
-    {
-      "respondent_id": "211011",
-      "name": "Kaila Lopez",
-      "email": "kaila.lopez@mabinicolleges.edu.ph",
-      "age": 20,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Quizzes", "Exams"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability"],
-      "coping_mechanisms": ["Sleeping", "Gaming"],
-      "suggestions": "Extend lab hours during finals week"
-    },
-    {
-      "respondent_id": "211012",
-      "name": "Lance Mendoza",
-      "email": "lance.mendoza@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Quizzes", "Exams"],
+      "academic_stressors": [
+        "Projects",
+        "Group activities"
+      ],
       "sleep_hours": "5-6 hours",
       "personal_issues_affect_performance": "No",
-      "school_environment_affects_stress": "No",
-      "environmental_stressors": ["Noise"],
-      "coping_mechanisms": ["Gaming", "Exercise"],
-      "suggestions": "Short recap videos after lectures"
-    },
-    {
-      "respondent_id": "211013",
-      "name": "Monica Navarro",
-      "email": "monica.navarro@mabinicolleges.edu.ph",
-      "age": 22,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Sometimes",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Lack of budget"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
       "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Class schedule"],
-      "coping_mechanisms": ["Sleeping", "Eating"],
-      "suggestions": "Coordinate project deadlines across subjects"
-    },
-    {
-      "respondent_id": "211014",
-      "name": "Nathan Olivarez",
-      "email": "nathan.olivarez@mabinicolleges.edu.ph",
-      "age": 20,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Often",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Exams", "Quizzes"],
-      "sleep_hours": "3-4 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability", "Noise"],
-      "coping_mechanisms": ["Gaming", "Sleeping"],
-      "suggestions": "Offer time management workshop mid-semester"
-    },
-    {
-      "respondent_id": "211015",
-      "name": "Olivia Perez",
-      "email": "olivia.perez@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Often",
-      "exam_stress_level": 3,
-      "academic_stressors": ["Projects", "Lack of budget"],
-      "sleep_hours": "7-8 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Class schedule"],
-      "coping_mechanisms": ["Eating", "Sleeping"],
-      "suggestions": "Provide open-source alternatives for paid tools"
-    },
-    {
-      "respondent_id": "211016",
-      "name": "Paolo Quizon",
-      "email": "paolo.quizon@mabinicolleges.edu.ph",
-      "age": 22,
-      "gender": "Male",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Often",
-      "exam_stress_level": 4,
-      "academic_stressors": ["Exams", "Quizzes"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Class schedule", "Noise"],
-      "coping_mechanisms": ["Gaming", "Exercise"],
-      "suggestions": "Release exam scope one week earlier"
-    },
-    {
-      "respondent_id": "211017",
-      "name": "Queenie Reyes",
-      "email": "queenie.reyes@mabinicolleges.edu.ph",
-      "age": 21,
-      "gender": "Female",
-      "year_level": "3rd year",
-      "academic_stress_frequency": "Often",
-      "exam_stress_level": 4,
-      "academic_stressors": ["Projects", "Exams", "Lack of budget"],
-      "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability"],
-      "coping_mechanisms": ["Sleeping", "Exercise"],
-      "suggestions": "Create shared repository of solved examples"
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Improve classroom facilities"
     },
     {
       "respondent_id": "211018",
-      "name": "Rico Santos",
-      "email": "rico.santos@mabinicolleges.edu.ph",
-      "age": 22,
+      "name": "Student 18",
+      "email": "student18@mabinicolleges.edu.ph",
+      "age": 20,
       "gender": "Male",
       "year_level": "3rd year",
-      "academic_stress_frequency": "Often",
-      "exam_stress_level": 4,
-      "academic_stressors": ["Projects", "Exams", "Quizzes"],
-      "sleep_hours": "3-4 hours",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
       "personal_issues_affect_performance": "Yes",
       "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Noise"],
-      "coping_mechanisms": ["Gaming", "Eating"],
-      "suggestions": "Improve Wi-Fi stability for online submissions"
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Reduce workload during exam periods"
     },
     {
       "respondent_id": "211019",
-      "name": "Samantha Torres",
-      "email": "samantha.torres@mabinicolleges.edu.ph",
+      "name": "Student 19",
+      "email": "student19@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211020",
+      "name": "Student 20",
+      "email": "student20@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "School facilities"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211021",
+      "name": "Student 21",
+      "email": "student21@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Never",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211022",
+      "name": "Student 22",
+      "email": "student22@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Lack of budget",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211023",
+      "name": "Student 23",
+      "email": "student23@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Eating",
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211024",
+      "name": "Student 24",
+      "email": "student24@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211025",
+      "name": "Student 25",
+      "email": "student25@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Listening to music"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211026",
+      "name": "Student 26",
+      "email": "student26@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Listening to music",
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211027",
+      "name": "Student 27",
+      "email": "student27@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Talking to friends"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211028",
+      "name": "Student 28",
+      "email": "student28@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise",
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211029",
+      "name": "Student 29",
+      "email": "student29@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211030",
+      "name": "Student 30",
+      "email": "student30@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Group activities"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class setting",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211031",
+      "name": "Student 31",
+      "email": "student31@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Never",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211032",
+      "name": "Student 32",
+      "email": "student32@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211033",
+      "name": "Student 33",
+      "email": "student33@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211034",
+      "name": "Student 34",
+      "email": "student34@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines",
+        "Group activities"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211035",
+      "name": "Student 35",
+      "email": "student35@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Exams"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211036",
+      "name": "Student 36",
+      "email": "student36@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Exams"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211037",
+      "name": "Student 37",
+      "email": "student37@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Exams"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211038",
+      "name": "Student 38",
+      "email": "student38@mabinicolleges.edu.ph",
       "age": 20,
       "gender": "Female",
       "year_level": "3rd year",
       "academic_stress_frequency": "Often",
-      "exam_stress_level": 4,
-      "academic_stressors": ["Exams", "Lack of budget"],
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Projects",
+        "Exams"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211039",
+      "name": "Student 39",
+      "email": "student39@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines",
+        "Exams"
+      ],
       "sleep_hours": "5-6 hours",
       "personal_issues_affect_performance": "Sometimes",
       "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Class schedule", "Transportation"],
-      "coping_mechanisms": ["Eating", "Sleeping"],
-      "suggestions": "Offer financial aid for certification exams"
+      "environmental_stressors": [
+        "Peer interaction",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
     },
     {
-      "respondent_id": "211020",
-      "name": "Tristan Uy",
-      "email": "tristan.uy@mabinicolleges.edu.ph",
+      "respondent_id": "211040",
+      "name": "Student 40",
+      "email": "student40@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Exams"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Eating"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211041",
+      "name": "Student 41",
+      "email": "student41@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements",
+        "Exams"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211042",
+      "name": "Student 42",
+      "email": "student42@mabinicolleges.edu.ph",
       "age": 21,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects",
+        "Exams"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211043",
+      "name": "Student 43",
+      "email": "student43@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines",
+        "Exams"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211044",
+      "name": "Student 44",
+      "email": "student44@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Deadlines",
+        "Exams"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Listening to music"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211045",
+      "name": "Student 45",
+      "email": "student45@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Deadlines",
+        "Exams"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211046",
+      "name": "Student 46",
+      "email": "student46@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211047",
+      "name": "Student 47",
+      "email": "student47@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211048",
+      "name": "Student 48",
+      "email": "student48@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211049",
+      "name": "Student 49",
+      "email": "student49@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Noise",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211050",
+      "name": "Student 50",
+      "email": "student50@mabinicolleges.edu.ph",
+      "age": 20,
       "gender": "Male",
       "year_level": "3rd year",
       "academic_stress_frequency": "Often",
       "exam_stress_level": 4,
-      "academic_stressors": ["Projects", "Exams"],
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
       "sleep_hours": "7-8 hours",
-      "personal_issues_affect_performance": "No",
+      "personal_issues_affect_performance": "Sometimes",
       "school_environment_affects_stress": "Sometimes",
-      "environmental_stressors": ["Peer interaction"],
-      "coping_mechanisms": ["Exercise", "Gaming"],
-      "suggestions": "Add mentorship program for capstone teams"
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
     },
     {
-      "respondent_id": "211021",
-      "name": "Una Valdez",
-      "email": "una.valdez@mabinicolleges.edu.ph",
+      "respondent_id": "211051",
+      "name": "Student 51",
+      "email": "student51@mabinicolleges.edu.ph",
       "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music",
+        "Talking to friends"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211052",
+      "name": "Student 52",
+      "email": "student52@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211053",
+      "name": "Student 53",
+      "email": "student53@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211054",
+      "name": "Student 54",
+      "email": "student54@mabinicolleges.edu.ph",
+      "age": 19,
       "gender": "Female",
       "year_level": "4th year",
       "academic_stress_frequency": "Always",
       "exam_stress_level": 4,
-      "academic_stressors": ["Projects", "Exams", "Lack of budget"],
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
       "sleep_hours": "5-6 hours",
-      "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Laboratory availability", "Transportation"],
-      "coping_mechanisms": ["Sleeping", "Eating"],
-      "suggestions": "Schedule consultations evenly across the week"
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise",
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Improve classroom facilities"
     },
     {
-      "respondent_id": "211022",
-      "name": "Victor Wong",
-      "email": "victor.wong@mabinicolleges.edu.ph",
-      "age": 23,
-      "gender": "Male",
-      "year_level": "4th year",
+      "respondent_id": "211055",
+      "name": "Student 55",
+      "email": "student55@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Never",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "More than 8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Listening to music",
+        "Talking to friends"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211056",
+      "name": "Student 56",
+      "email": "student56@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211057",
+      "name": "Student 57",
+      "email": "student57@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Listening to music"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211058",
+      "name": "Student 58",
+      "email": "student58@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
       "academic_stress_frequency": "Always",
-      "exam_stress_level": 5,
-      "academic_stressors": ["Projects", "Exams", "Quizzes"],
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211059",
+      "name": "Student 59",
+      "email": "student59@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
       "sleep_hours": "3-4 hours",
       "personal_issues_affect_performance": "Yes",
       "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Noise", "Class schedule"],
-      "coping_mechanisms": ["Gaming", "Sleeping"],
-      "suggestions": "Publish grading timelines to manage expectations"
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
     },
     {
-      "respondent_id": "211023",
-      "name": "Wena Xyra",
-      "email": "wena.xyra@mabinicolleges.edu.ph",
+      "respondent_id": "211060",
+      "name": "Student 60",
+      "email": "student60@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Talking to friends"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211061",
+      "name": "Student 61",
+      "email": "student61@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211062",
+      "name": "Student 62",
+      "email": "student62@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211063",
+      "name": "Student 63",
+      "email": "student63@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211064",
+      "name": "Student 64",
+      "email": "student64@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211065",
+      "name": "Student 65",
+      "email": "student65@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Listening to music"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211066",
+      "name": "Student 66",
+      "email": "student66@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Never",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Listening to music",
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211067",
+      "name": "Student 67",
+      "email": "student67@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211068",
+      "name": "Student 68",
+      "email": "student68@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211069",
+      "name": "Student 69",
+      "email": "student69@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211070",
+      "name": "Student 70",
+      "email": "student70@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Eating"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211071",
+      "name": "Student 71",
+      "email": "student71@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Eating",
+        "Listening to music"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211072",
+      "name": "Student 72",
+      "email": "student72@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211073",
+      "name": "Student 73",
+      "email": "student73@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211074",
+      "name": "Student 74",
+      "email": "student74@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "More than 8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Talking to friends"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211075",
+      "name": "Student 75",
+      "email": "student75@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Listening to music"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211076",
+      "name": "Student 76",
+      "email": "student76@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211077",
+      "name": "Student 77",
+      "email": "student77@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211078",
+      "name": "Student 78",
+      "email": "student78@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Rarely",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Noise",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Reduce class sizes for better interaction"
+    },
+    {
+      "respondent_id": "211079",
+      "name": "Student 79",
+      "email": "student79@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Working out"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211080",
+      "name": "Student 80",
+      "email": "student80@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule",
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211081",
+      "name": "Student 81",
+      "email": "student81@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211082",
+      "name": "Student 82",
+      "email": "student82@mabinicolleges.edu.ph",
       "age": 21,
       "gender": "Female",
       "year_level": "4th year",
-      "academic_stress_frequency": "Always",
-      "exam_stress_level": 5,
-      "academic_stressors": ["Projects", "Lack of budget"],
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "More than 8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping",
+        "Listening to music"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211083",
+      "name": "Student 83",
+      "email": "student83@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
       "sleep_hours": "3-4 hours",
       "personal_issues_affect_performance": "Yes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation", "Noise"],
-      "coping_mechanisms": ["Sleeping", "Eating"],
-      "suggestions": "Subsidize transport during late-night lab work"
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music",
+        "Eating"
+      ],
+      "suggestions": "Reduce workload during exam periods"
     },
     {
-      "respondent_id": "211024",
-      "name": "Xander Yumul",
-      "email": "xander.yumul@mabinicolleges.edu.ph",
+      "respondent_id": "211084",
+      "name": "Student 84",
+      "email": "student84@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Lack of budget"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211085",
+      "name": "Student 85",
+      "email": "student85@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class setting",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211086",
+      "name": "Student 86",
+      "email": "student86@mabinicolleges.edu.ph",
       "age": 22,
       "gender": "Male",
-      "year_level": "4th year",
-      "academic_stress_frequency": "Always",
-      "exam_stress_level": 5,
-      "academic_stressors": ["Projects", "Exams"],
-      "sleep_hours": "3-4 hours",
-      "personal_issues_affect_performance": "Sometimes",
-      "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Class schedule", "Peer interaction"],
-      "coping_mechanisms": ["Gaming", "Exercise"],
-      "suggestions": "Provide earlier thesis panel feedback"
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 1,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
     },
     {
-      "respondent_id": "211025",
-      "name": "Yssa Zulueta",
-      "email": "yssa.zulueta@mabinicolleges.edu.ph",
-      "age": 22,
+      "respondent_id": "211087",
+      "name": "Student 87",
+      "email": "student87@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "211088",
+      "name": "Student 88",
+      "email": "student88@mabinicolleges.edu.ph",
+      "age": 23,
       "gender": "Female",
       "year_level": "4th year",
       "academic_stress_frequency": "Always",
       "exam_stress_level": 5,
-      "academic_stressors": ["Projects", "Exams", "Lack of budget"],
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends",
+        "Listening to music"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211089",
+      "name": "Student 89",
+      "email": "student89@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211090",
+      "name": "Student 90",
+      "email": "student90@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class setting",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211091",
+      "name": "Student 91",
+      "email": "student91@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Noise",
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211092",
+      "name": "Student 92",
+      "email": "student92@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 2,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211093",
+      "name": "Student 93",
+      "email": "student93@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Reduce workload during exam periods"
+    },
+    {
+      "respondent_id": "211094",
+      "name": "Student 94",
+      "email": "student94@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule",
+        "School facilities"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "211095",
+      "name": "Student 95",
+      "email": "student95@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 5,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
       "sleep_hours": "More than 8 hours",
       "personal_issues_affect_performance": "Sometimes",
       "school_environment_affects_stress": "Yes",
-      "environmental_stressors": ["Transportation"],
-      "coping_mechanisms": ["Sleeping", "Exercise"],
-      "suggestions": "Offer mock defenses to reduce anxiety"
+      "environmental_stressors": [
+        "School facilities"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "211096",
+      "name": "Student 96",
+      "email": "student96@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "No",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "211097",
+      "name": "Student 97",
+      "email": "student97@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class setting",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Listening to music"
+      ],
+      "suggestions": "More flexible deadlines for major projects"
+    },
+    {
+      "respondent_id": "211098",
+      "name": "Student 98",
+      "email": "student98@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "More mental health resources would help"
+    },
+    {
+      "respondent_id": "211099",
+      "name": "Student 99",
+      "email": "student99@mabinicolleges.edu.ph",
+      "age": 20,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Improve classroom facilities"
+    },
+    {
+      "respondent_id": "2110100",
+      "name": "Student 100",
+      "email": "student100@mabinicolleges.edu.ph",
+      "age": 21,
+      "gender": "Male",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better time management and support systems needed"
+    },
+    {
+      "respondent_id": "2110101",
+      "name": "Student 101",
+      "email": "student101@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "4th year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 3,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Sometimes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Eating"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "2110102",
+      "name": "Student 102",
+      "email": "student102@mabinicolleges.edu.ph",
+      "age": 19,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Always",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Deadlines"
+      ],
+      "sleep_hours": "3-4 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Class schedule"
+      ],
+      "coping_mechanisms": [
+        "Talking to friends"
+      ],
+      "suggestions": "Better guidance on thesis requirements"
+    },
+    {
+      "respondent_id": "2110103",
+      "name": "Student 103",
+      "email": "student103@mabinicolleges.edu.ph",
+      "age": 22,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Often",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Thesis Requirements"
+      ],
+      "sleep_hours": "5-6 hours",
+      "personal_issues_affect_performance": "Yes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Peer interaction",
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
+    },
+    {
+      "respondent_id": "2110104",
+      "name": "Student 104",
+      "email": "student104@mabinicolleges.edu.ph",
+      "age": 23,
+      "gender": "Female",
+      "year_level": "3rd year",
+      "academic_stress_frequency": "Sometimes",
+      "exam_stress_level": 4,
+      "academic_stressors": [
+        "Projects"
+      ],
+      "sleep_hours": "7-8 hours",
+      "personal_issues_affect_performance": "Sometimes",
+      "school_environment_affects_stress": "Yes",
+      "environmental_stressors": [
+        "Noise"
+      ],
+      "coping_mechanisms": [
+        "Sleeping"
+      ],
+      "suggestions": "Provide more study spaces"
     }
   ]
 }
