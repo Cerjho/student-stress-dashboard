@@ -30,12 +30,12 @@ const Sidebar = ({ activeSection, onSectionChange }) => {
             <button
               key={id}
               onClick={() => onSectionChange(id)}
-              className={`w-full flex items-center space-x-3 px-3 py-2 rounded-lg transition-colors text-left ${
-                isActive ? 'bg-blue-600 text-white' : 'text-gray-200 hover:bg-gray-700'
+              className={`w-full flex items-center space-x-3 px-4 py-3 rounded-lg transition-colors text-left ${
+                isActive ? 'bg-blue-600 text-white' : 'text-gray-300 hover:bg-gray-700'
               }`}
             >
-              <Icon size={18} />
-              <span className="text-sm font-medium">{label}</span>
+              <Icon size={20} />
+              <span className="font-medium">{label}</span>
             </button>
           );
         })}

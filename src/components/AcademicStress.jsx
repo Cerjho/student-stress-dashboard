@@ -39,8 +39,8 @@ const AcademicStress = ({ responses }) => {
             <button
               key={btn.id}
               onClick={() => setActiveFilter(btn.id)}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                activeFilter === btn.id ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+              className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+                activeFilter === btn.id ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
               }`}
             >
               {btn.label}
