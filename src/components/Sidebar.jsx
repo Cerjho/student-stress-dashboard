@@ -12,13 +12,14 @@ const Sidebar = ({ activeSection, onSectionChange }) => {
   ];
 
   return (
-    <aside className="w-64 bg-gray-800 text-white min-h-screen p-4">
-      <div className="mb-6">
+    <aside className="w-64 bg-white border-r border-gray-200 min-h-screen p-6">
+      <div className="mb-10">
         <div className="flex items-center space-x-3">
-          <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center font-bold">SS</div>
+          <div className="w-8 h-8 rounded-lg bg-gray-900 flex items-center justify-center">
+            <span className="text-white text-xs font-medium">SS</span>
+          </div>
           <div>
-            <p className="text-sm text-gray-300">Student Stress</p>
-            <p className="text-lg font-semibold">Dashboard</p>
+            <p className="text-lg font-light text-gray-900">Dashboard</p>
           </div>
         </div>
       </div>
@@ -30,12 +31,12 @@ const Sidebar = ({ activeSection, onSectionChange }) => {
             <button
               key={id}
               onClick={() => onSectionChange(id)}
-              className={`w-full flex items-center space-x-3 px-4 py-3 rounded-lg transition-colors text-left ${
-                isActive ? 'bg-blue-600 text-white' : 'text-gray-300 hover:bg-gray-700'
+              className={`w-full flex items-center space-x-3 px-4 py-2.5 rounded-lg transition-all text-left group ${
+                isActive ? 'bg-gray-900 text-white' : 'text-gray-600 hover:bg-gray-50'
               }`}
             >
-              <Icon size={20} />
-              <span className="font-medium">{label}</span>
+              <Icon size={18} strokeWidth={1.5} className={isActive ? 'text-white' : 'text-gray-400 group-hover:text-gray-600'} />
+              <span className="text-sm font-light">{label}</span>
             </button>
           );
         })}

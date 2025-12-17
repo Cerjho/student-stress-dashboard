@@ -31,16 +31,16 @@ const AcademicStress = ({ responses }) => {
     <div className="p-6 space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="text-3xl font-bold">Academic Stress</h2>
-          <p className="text-sm text-gray-600">Frequency and key academic stressors</p>
+          <h2 className="text-3xl font-light text-gray-900">Academic Stress</h2>
+          <p className="text-sm text-gray-500 mt-1 font-light">Frequency and key academic stressors</p>
         </div>
         <div className="flex space-x-2">
           {filterButtons.map((btn) => (
             <button
               key={btn.id}
               onClick={() => setActiveFilter(btn.id)}
-              className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                activeFilter === btn.id ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+              className={`px-4 py-2 rounded-lg text-sm font-light transition-all ${
+                activeFilter === btn.id ? 'bg-gray-900 text-white' : 'border border-gray-200 text-gray-600 hover:bg-gray-50'
               }`}
             >
               {btn.label}
@@ -50,7 +50,7 @@ const AcademicStress = ({ responses }) => {
       </div>
 
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
-        <div className="bg-white rounded-lg shadow-md p-6">
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
           <h3 className="text-xl font-semibold mb-4">Academic Stress Frequency</h3>
           <ResponsiveContainer width="100%" height={320}>
             <BarChart data={frequencyData}>
@@ -63,8 +63,8 @@ const AcademicStress = ({ responses }) => {
           </ResponsiveContainer>
         </div>
 
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h3 className="text-xl font-semibold mb-4">Academic Stressors</h3>
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
+          <h3 className="text-lg font-light text-gray-900 mb-6">Academic Stressors</h3>
           <ResponsiveContainer width="100%" height={320}>
             <BarChart data={stressorData} layout="vertical" margin={{ left: 80 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />

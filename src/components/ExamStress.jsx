@@ -39,20 +39,20 @@ const ExamStress = ({ responses }) => {
   return (
     <div className="p-6 space-y-6">
       <div className="flex items-center justify-between">
-        <h2 className="text-3xl font-bold">Exam Stress</h2>
-        <p className="text-sm text-gray-600">Stress levels distribution across all respondents</p>
+        <h2 className="text-3xl font-light text-gray-900">Exam Stress</h2>
+        <p className="text-sm text-gray-500 font-light">Stress levels distribution across all respondents</p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
         {cards.map((card) => (
-          <div key={card.title} className={`bg-gradient-to-br ${card.tone} text-white rounded-lg p-5 shadow-md`}>
-            <p className="text-sm opacity-90">{card.title}</p>
-            <p className="text-3xl font-bold mt-1">{card.value}</p>
+          <div key={card.title} className="bg-white border border-gray-200 rounded-xl p-6">
+            <p className="text-xs font-medium text-gray-500 uppercase tracking-wide">{card.title}</p>
+            <p className="text-3xl font-light text-gray-900 mt-4">{card.value}</p>
           </div>
         ))}
       </div>
 
-      <div className="bg-white rounded-lg shadow-md p-6">
+      <div className="bg-white border border-gray-200 rounded-xl p-8">
         <h3 className="text-xl font-semibold mb-4">Exam Stress Levels (1-5)</h3>
         <ResponsiveContainer width="100%" height={360}>
           <LineChart data={levelData}>
@@ -72,11 +72,14 @@ const ExamStress = ({ responses }) => {
         </ResponsiveContainer>
       </div>
 
-      <div className="bg-white rounded-lg shadow-md p-6">
-        <h3 className="text-xl font-semibold mb-3">Key Findings</h3>
-        <ul className="list-disc list-inside space-y-2 text-gray-700">
+      <div className="bg-white border border-gray-200 rounded-xl p-8">
+        <h3 className="text-lg font-light text-gray-900 mb-6">Key Findings</h3>
+        <ul className="space-y-3">
           {findings.map((item) => (
-            <li key={item}>{item}</li>
+            <li key={item} className="flex items-start">
+              <span className="text-gray-400 mr-3">·</span>
+              <span className="text-gray-600 font-light">{item}</span>
+            </li>
           ))}
         </ul>
       </div>

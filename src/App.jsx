@@ -47,7 +47,7 @@ const App = () => {
       />
       <div className="app-content">
         <Sidebar activeSection={activeSection} onSectionChange={setActiveSection} />
-        <main className="bg-gray-50 min-h-screen">{renderSection()}</main>
+        <main className="bg-gray-50 min-h-screen p-8">{renderSection()}</main>
       </div>
     </div>
   );

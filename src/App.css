@@ -1,12 +1,12 @@
 .app-shell {
   min-height: 100vh;
-  background: #f3f4f6;
+  background: #fafafa;
 }
 
 .app-content {
   display: grid;
   grid-template-columns: 256px 1fr;
-  min-height: calc(100vh - 160px);
+  min-height: calc(100vh - 200px);
 }
 
 @media (max-width: 1024px) {

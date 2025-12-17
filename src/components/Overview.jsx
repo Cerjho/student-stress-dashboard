@@ -60,34 +60,40 @@ const Overview = ({ responses }) => {
     <div className="p-6 space-y-6">
       <h2 className="text-3xl font-bold">Overview</h2>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
         {metrics.map((metric) => (
           <div
             key={metric.title}
-            className={`bg-gradient-to-br ${metric.color} text-white rounded-lg p-5 shadow-md`}
+            className="bg-white border border-gray-200 rounded-xl p-6 hover:shadow-sm transition-shadow"
           >
-            <p className="text-sm opacity-90">{metric.title}</p>
-            <p className="text-3xl font-bold mt-1">{metric.value}</p>
-            <p className="text-sm mt-1 opacity-90">{metric.detail}</p>
+            <p className="text-xs font-medium text-gray-500 uppercase tracking-wide">{metric.title}</p>
+            <p className="text-3xl font-light text-gray-900 mt-4">{metric.value}</p>
+            <p className="text-sm text-gray-500 mt-2 font-light">{metric.detail}</p>
           </div>
         ))}
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h3 className="text-2xl font-semibold mb-3">Study Objectives</h3>
-          <ul className="list-disc list-inside space-y-2 text-gray-700">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
+          <h3 className="text-xl font-light text-gray-900 mb-6">Study Objectives</h3>
+          <ul className="space-y-3">
             {objectives.map((obj) => (
-              <li key={obj}>{obj}</li>
+              <li key={obj} className="flex items-start">
+                <span className="text-gray-400 mr-3">·</span>
+                <span className="text-gray-600 font-light">{obj}</span>
+              </li>
             ))}
           </ul>
         </div>
 
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h3 className="text-2xl font-semibold mb-3">Quick Insights</h3>
-          <ul className="list-disc list-inside space-y-2 text-gray-700">
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
+          <h3 className="text-xl font-light text-gray-900 mb-6">Quick Insights</h3>
+          <ul className="space-y-3">
             {quickInsights.map((insight) => (
-              <li key={insight}>{insight}</li>
+              <li key={insight} className="flex items-start">
+                <span className="text-gray-400 mr-3">·</span>
+                <span className="text-gray-600 font-light">{insight}</span>
+              </li>
             ))}
           </ul>
         </div>

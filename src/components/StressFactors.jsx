@@ -27,10 +27,10 @@ const StressFactors = ({ responses }) => {
 
   return (
     <div className="p-6 space-y-6">
-      <h2 className="text-3xl font-bold">Stress Factors</h2>
+      <h2 className="text-3xl font-light text-gray-900">Stress Factors</h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <div className="bg-white rounded-lg shadow-md p-6">
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
           <h3 className="text-xl font-semibold mb-4">Sleep Hours Distribution</h3>
           <ResponsiveContainer width="100%" height={320}>
             <BarChart data={sleepData}>
@@ -43,8 +43,8 @@ const StressFactors = ({ responses }) => {
           </ResponsiveContainer>
         </div>
 
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h3 className="text-xl font-semibold mb-4">Personal Issues Impact</h3>
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
+          <h3 className="text-lg font-light text-gray-900 mb-6">Personal Issues Impact</h3>
           <ResponsiveContainer width="100%" height={320}>
             <PieChart>
               <Pie
@@ -67,8 +67,8 @@ const StressFactors = ({ responses }) => {
         </div>
       </div>
 
-      <div className="bg-white rounded-lg shadow-md p-6">
-        <h3 className="text-xl font-semibold mb-4">Environmental Stressors</h3>
+      <div className="bg-white border border-gray-200 rounded-xl p-8">
+        <h3 className="text-lg font-light text-gray-900 mb-6">Environmental Stressors</h3>
         <ResponsiveContainer width="100%" height={320}>
           <BarChart data={environmental} layout="vertical" margin={{ left: 120 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />

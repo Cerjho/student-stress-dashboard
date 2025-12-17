@@ -16,10 +16,10 @@ const CopingMechanisms = ({ responses }) => {
 
   return (
     <div className="p-6 space-y-6">
-      <h2 className="text-3xl font-bold">Coping Mechanisms</h2>
+      <h2 className="text-3xl font-light text-gray-900">Coping Mechanisms</h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <div className="bg-white rounded-lg shadow-md p-6">
+        <div className="bg-white border border-gray-200 rounded-xl p-8">
           <h3 className="text-xl font-semibold mb-4">Preferred Coping Strategies</h3>
           <ResponsiveContainer width="100%" height={320}>
             <BarChart data={mechanisms}>
@@ -32,13 +32,13 @@ const CopingMechanisms = ({ responses }) => {
           </ResponsiveContainer>
         </div>
 
-        <div className="bg-white rounded-lg shadow-md p-6 flex flex-col">
-          <h3 className="text-xl font-semibold mb-4">Student Suggestions</h3>
-          <div className="space-y-3 max-h-80 overflow-y-auto pr-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-8 flex flex-col">
+          <h3 className="text-lg font-light text-gray-900 mb-6">Student Suggestions</h3>
+          <div className="space-y-4 max-h-80 overflow-y-auto pr-2">
             {suggestions.map((suggestion) => (
-              <div key={suggestion.id} className="border border-gray-100 rounded-lg p-3 bg-gray-50">
-                <p className="text-sm text-gray-500 font-medium">{suggestion.name}</p>
-                <p className="text-gray-800 mt-1">{suggestion.text}</p>
+              <div key={suggestion.id} className="border border-gray-100 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+                <p className="text-xs text-gray-500 font-medium uppercase tracking-wide">{suggestion.name}</p>
+                <p className="text-gray-700 mt-2 font-light">{suggestion.text}</p>
               </div>
             ))}
             {suggestions.length === 0 && (
